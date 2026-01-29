@@ -24,8 +24,11 @@ Type Casting: Ensured dates and numerical scores were correctly formatted for ca
 Built an interactive dashboard featuring:
 
 KPI Cards: Average high score, total venues, and toss winners.
+
 Geospatial Map: Visualization of match winners distributed across Indian cities.
+
 Donut & Pie Charts: Breakdown of run distribution and win shares by team.
+
 Interactive Tables: Filterable lists for Player of the Match and team-specific stats.
 
 ## 📈 Key Insights
