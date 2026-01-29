@@ -36,7 +36,7 @@ Donut & Pie Charts: Breakdown of run distribution and win shares by team.
 
 Interactive Tables: Filterable lists for Player of the Match and team-specific stats.
 
-Dashboard interaction  <a href="  "> View dashboard </a>
+Dashboard interaction  <a href="https://github.com/Kani-mozhi3/IPL-Dashboard/blob/main/ipl%202025.png"> View dashboard </a>
 
 ## 📈 Key Insights
 
