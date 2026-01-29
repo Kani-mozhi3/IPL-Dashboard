@@ -22,7 +22,9 @@ Established a connection between the local data files and the SQL Server environ
 
 ### 2. Data Cleaning & Transformation
 Handling Nulls: Managed missing values in "Player of the Match" and "High Score" columns.
+
 Data Consistency: Standardized team names and venue locations.
+
 Type Casting: Ensured dates and numerical scores were correctly formatted for calculation.
 
 ### 3. Power BI Dashboarding
