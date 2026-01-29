@@ -6,7 +6,8 @@ This project provides a comprehensive end-to-end data analytics solution for the
 ## 🛠️ Tech Stack
 
 Data Source: CSV File
-    -- <a href="https://github.com/Kani-mozhi3/IPL-Dashboard/blob/main/Matches.csv.xlsx"> Dataset </a>
+
+- <a href="https://github.com/Kani-mozhi3/IPL-Dashboard/blob/main/Matches.csv.xlsx"> Dataset </a>
 
 Data Cleaning: Python (Pandas) / SQL
 
