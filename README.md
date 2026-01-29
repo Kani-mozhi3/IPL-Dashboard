@@ -36,6 +36,8 @@ Donut & Pie Charts: Breakdown of run distribution and win shares by team.
 
 Interactive Tables: Filterable lists for Player of the Match and team-specific stats.
 
+Dashboard interaction  <a href="  "> View dashboard </a>
+
 ## 📈 Key Insights
 
 Dominant Force: Gujarat Titans (GT) commanded a 45.4% share of total runs in the analyzed period.
