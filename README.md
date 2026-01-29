@@ -34,5 +34,7 @@ Interactive Tables: Filterable lists for Player of the Match and team-specific s
 ## 📈 Key Insights
 
 Dominant Force: Gujarat Titans (GT) commanded a 45.4% share of total runs in the analyzed period.
+
 Consistency: Certain players showed high scoring reliability across both "Team 1" and "Team 2" appearances.
+
 Venue Impact: Specific venues showed a higher correlation between winning the toss and winning the match
