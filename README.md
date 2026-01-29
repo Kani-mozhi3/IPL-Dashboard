@@ -49,6 +49,7 @@ Venue Impact: Specific venues showed a higher correlation between winning the to
 
 ## Dasboard
 
-C:\Users\Kanimozhi\Pictures\Screenshots()
+<img width="1223" height="695" alt="ipl 2025" src="https://github.com/user-attachments/assets/8da88f69-a441-4bab-9f6a-663bfaad200b" />
+
 
 
