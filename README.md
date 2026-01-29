@@ -47,7 +47,7 @@ Consistency: Certain players showed high scoring reliability across both "Team 1
 
 Venue Impact: Specific venues showed a higher correlation between winning the toss and winning the match.
 
-## Dasboard
+## Dashboard
 
 <img width="1223" height="695" alt="ipl 2025" src="https://github.com/user-attachments/assets/8da88f69-a441-4bab-9f6a-663bfaad200b" />
 
