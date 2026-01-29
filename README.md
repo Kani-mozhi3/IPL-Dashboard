@@ -36,7 +36,8 @@ Donut & Pie Charts: Breakdown of run distribution and win shares by team.
 
 Interactive Tables: Filterable lists for Player of the Match and team-specific stats.
 
-Dashboard interaction  <a href="https://github.com/Kani-mozhi3/IPL-Dashboard/blob/main/ipl%202025.png"> View dashboard </a>
+
+- Dashboard interaction  <a href="https://github.com/Kani-mozhi3/IPL-Dashboard/blob/main/ipl%202025.png"> View dashboard </a>
 
 ## 📈 Key Insights
 
@@ -44,4 +45,10 @@ Dominant Force: Gujarat Titans (GT) commanded a 45.4% share of total runs in the
 
 Consistency: Certain players showed high scoring reliability across both "Team 1" and "Team 2" appearances.
 
-Venue Impact: Specific venues showed a higher correlation between winning the toss and winning the match
+Venue Impact: Specific venues showed a higher correlation between winning the toss and winning the match.
+
+## Dasboard
+
+C:\Users\Kanimozhi\Pictures\Screenshots()
+
+
