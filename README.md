@@ -1,4 +1,4 @@
-# IPL-Dashboard
+# IPL 2025-Dashboard
 ## IPL 2025 Performance Analytics Dashboard
 ## 📊 Project Overview
 This project provides a comprehensive end-to-end data analytics solution for the IPL 2025 Season. It transforms raw match data into actionable insights, focusing on team performance, player statistics, and venue-based trends. The final output is an interactive Power BI dashboard designed for stakeholders to track season progress at a glance.
